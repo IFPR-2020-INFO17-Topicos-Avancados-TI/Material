@@ -4,7 +4,7 @@
 
 👨‍🏫 [Apresentação da Disciplina](files/tati-aula00-apresentacao.pdf)
 
-ℹ️ [Horários de Atendimento](files/HORARIOS.md)
+ℹ️ [Horários de Atendimento](https://gist.github.com/seccomiro/c5fdcebc8c2646afc83c90c3ef7ae8c2)
 
 ## Git, GitHub e GitHub Classroom
 
