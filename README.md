@@ -8,6 +8,8 @@
 
 ## Git, GitHub e GitHub Classroom
 
+📚 [Git e Github para iniciantes | Udemy](https://www.udemy.com/course/git-e-github-para-iniciantes)
+
 🖊️ [Atividade 0 - Git, GitHub e GitHub Classroom](https://classroom.github.com/a/Ebti2yo1)
 
 ## Android
