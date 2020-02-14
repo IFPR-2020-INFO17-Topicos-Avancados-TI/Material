@@ -18,4 +18,6 @@
 
 👨‍🏫 [Android Studio e Projetos Android](files/tati-aula02-android.pdf)
 
+🧮 [Código da aula de 14/02/2020 - Projeto Android com login](https://github.com/IFPR-2020-INFO17-Topicos-Avancados-TI/aula02-android)
+
 🖊️ [Atividade 1 - Calculadora de Gorjeta](https://classroom.github.com/g/ai-YvCQW)
