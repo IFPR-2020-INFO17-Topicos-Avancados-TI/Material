@@ -15,3 +15,5 @@ sss
 👨‍🏫 [Android - Introdução](files/tati-aula01-introducao.pdf)
 
 👨‍🏫 [Android Studio e Projetos Android](files/tati-aula02-android.pdf)
+
+🖊️ [Atividade 1 - Calculadora de Gorjeta](https://classroom.github.com/g/ai-YvCQW)
