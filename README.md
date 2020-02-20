@@ -26,4 +26,4 @@
 
 👨‍🏫 [Linguagem Kotlin](files/tati-aula03-kotlin.pdf)
 
-🖊️ [Atividade 2 - Recursos da Linguagem Kotlin](hthttps://classroom.github.com/g/NEVvaasf)
+🖊️ [Atividade 2 - Recursos da Linguagem Kotlin](https://classroom.github.com/g/NEVvaasf)
