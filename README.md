@@ -21,3 +21,9 @@
 🧮 [Código da aula de 14/02/2020 - Projeto Android com login](https://github.com/IFPR-2020-INFO17-Topicos-Avancados-TI/aula02-android)
 
 🖊️ [Atividade 1 - Calculadora de Gorjeta](https://classroom.github.com/g/ai-YvCQW)
+
+## Linguagem Kotlin
+
+👨‍🏫 [Linguagem Kotlin](files/tati-aula03-kotlin.pdf)
+
+🖊️ [Atividade 2 - Recursos da Linguagem Kotlin](hthttps://classroom.github.com/g/NEVvaasf)
