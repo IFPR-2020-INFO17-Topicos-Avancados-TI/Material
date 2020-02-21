@@ -24,6 +24,8 @@
 
 🧮 [Código da aula de 21/02/2020 - Calculadora de Gorjeta](https://github.com/IFPR-2020-INFO17-Topicos-Avancados-TI/aula02-gorjeta)
 
+🧮 [Código da aula de 21/02/2020 - Calculadora de Gorjeta (Kotlin)](https://github.com/IFPR-2020-INFO17-Topicos-Avancados-TI/aula02-gorjeta-kotlin)
+
 ## Linguagem Kotlin
 
 👨‍🏫 [Linguagem Kotlin](files/tati-aula03-kotlin.pdf)
